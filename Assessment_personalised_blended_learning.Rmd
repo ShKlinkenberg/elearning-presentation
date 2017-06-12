@@ -110,7 +110,7 @@ Lecture attendance and formative assessment explained 29% $F(2, 271) = 55.2, p <
 
 ## Diagnostics {.smaller}
 
-Use categorised results of assesment to diagnose problem ereas.
+Use categorised results of assesment to diagnose problems.
 
 ![Diagnostics](images/digagnostics_remindo.png)
 
