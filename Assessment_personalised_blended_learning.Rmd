@@ -19,7 +19,7 @@ output:
     * Scientific and Statistiscal Reasoning (BA2)
     * Classical Test Theory (BA1)
 * Chairman National Special Interest Group Digital Assessment
-* Chariman Focus Group on Digital Assessment UvA
+* Chairman Focus Group on Digital Assessment UvA
 * Board of Advisors [Oefenweb b.v.](https://www.oefenweb.nl)
 * Research on Computer Adaptive Testing
 * Coordinator ICTO-PSY 
