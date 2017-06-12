@@ -106,6 +106,8 @@ Lecture attendance and formative assessment explained 29% $F(2, 271) = 55.2, p <
 
 ![weblectures](images/weblecture_viewing-eps-converted-to.jpg)
 
+# Personalised Learning
+
 ## Diagnostics {.smaller}
 
 Use categorised results of assesment to diagnose problem ereas.
